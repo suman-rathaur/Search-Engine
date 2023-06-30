@@ -27,4 +27,5 @@ This project focuses on implementing a search engine specifically designed for a
  ![image](https://github.com/suman-rathaur/Search-Engine/assets/127435701/cbd5feb0-23f8-4a17-8bdc-bbbc8b7193cb)
 
 2. User Feedback
-<img width="585" alt="image" src="https://github.com/suman-rathaur/Search-Engine/assets/127435701/623660c0-ff8a-4f43-ad63-97511e6c9dae">
+
+    <img width="585" alt="image" src="https://github.com/suman-rathaur/Search-Engine/assets/127435701/623660c0-ff8a-4f43-ad63-97511e6c9dae">
